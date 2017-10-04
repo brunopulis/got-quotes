@@ -2,4 +2,6 @@
 
 [![Build Status](https://travis-ci.org/brunopulis/got-quotes.svg?branch=master)](https://travis-ci.org/brunopulis/got-quotes)
 
+[![license](https://img.shields.io/github/license/brunopulis/got-quotes.svg)](./LICENSE.md)
+
 ## Quotes from Game of Thrones
