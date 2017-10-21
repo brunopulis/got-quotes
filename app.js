@@ -2,9 +2,7 @@ const API = 'https://got-quotes.herokuapp.com/quotes';
 
 fetch(API)  
   .then((response) => {
-    response.json().then( (data) => {
-      console.log(data)
-      
+    response.json().then((data) => {
       let phrase    = document.querySelector('#phrase')
       let character = document.querySelector('#character')
       
