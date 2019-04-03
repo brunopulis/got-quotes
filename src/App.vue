@@ -8,7 +8,7 @@
 import Quote from './components/Quote'
 
 export default {
-  name: "app",
+  name: 'app',
   components: {
     Quote
   }

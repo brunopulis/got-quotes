@@ -30,7 +30,7 @@ export default {
       .then(response => (this.quotes = response.data))
       .catch(error => (this.errored = true))
   }
-};
+}
 </script>
 
 <style>
