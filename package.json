@@ -9,8 +9,8 @@
     "now-build": "npm run build"
   },
   "dependencies": {
+    "core-js": "3.18.3",
     "axios": "0.23.0",
-    "core-js": "3.9.1",
     "vue": "2.6.12"
   },
   "devDependencies": {
